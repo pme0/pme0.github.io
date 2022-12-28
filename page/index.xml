@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on pme0</title>
-    <link>https://github.com/pme0/pme0.github.io/page/</link>
+    <link>https://pme0.github.io/page/</link>
     <description>Recent content in Pages on pme0</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Dec 2022 14:48:03 +0000</lastBuildDate><atom:link href="https://github.com/pme0/pme0.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Dec 2022 14:48:03 +0000</lastBuildDate><atom:link href="https://pme0.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spoken Word Recognition</title>
-      <link>https://github.com/pme0/pme0.github.io/page/spoken-word-recognition/</link>
+      <link>https://pme0.github.io/page/spoken-word-recognition/</link>
       <pubDate>Tue, 27 Dec 2022 14:48:03 +0000</pubDate>
       
-      <guid>https://github.com/pme0/pme0.github.io/page/spoken-word-recognition/</guid>
+      <guid>https://pme0.github.io/page/spoken-word-recognition/</guid>
       <description>Introduction Link to heading Sound waves are represented digitally as audio data, most commonly in waveform. The waveform depicts the amplitude of the sound wave. Another possible representation is the audio spectrogram, which represents the frequencies of sound waves. Examples of these two representations are show below.
 In this example we will train a Machine Learning model to recognize spoken words. We will transform waveform sound data into spectrogram image data and so recast the original Audio Classification problem as an Image Classification one.</description>
     </item>
